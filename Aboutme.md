@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kacemmeherzi
-- 👀 I’m interested in software and web development
-- 🌱 I’m currently learning software engineering
+- 👀 I’m a software engineer student currently 
 - 📫 How to reach me <kacemmeherzi52@gmail.com>
 
 <!---
